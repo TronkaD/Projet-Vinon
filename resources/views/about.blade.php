@@ -1,0 +1,9 @@
+@extends('app')
+@section('content')
+    @include('partials.pages.about.section1')
+    @include('partials.pages.about.section2')
+    @include('partials.pages.about.section3')
+    @include('partials.pages.about.section4')
+    @include('partials.pages.about.section5')
+    @include('partials.pages.about.section6')
+@endsection
