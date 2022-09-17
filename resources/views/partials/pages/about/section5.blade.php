@@ -13,10 +13,10 @@
 		<div class="row">
 			<div class="col-lg-3 col-md-6 col-sm-6">
 				<div class="team-block mb-5 mb-lg-0">
-					<img src="images/team/1.jpg" alt="" class="img-fluid w-100">
+					<img src="{{ url('images/team/1.jpg') }}" alt="" class="img-fluid w-100">
 
 					<div class="content">
-						<h4 class="mt-4 mb-0"><a href="doctor-single.html">DANCLOU Chantal</a></h4>
+						<h4 class="mt-4 mb-0"><a href="{{ url('/doctorSingle') }}">DANCLOU Chantal</a></h4>
 						<p>Internist, Emergency Physician</p>
 					</div>
 				</div>
@@ -24,10 +24,10 @@
 
 			<div class="col-lg-3 col-md-6 col-sm-6">
 				<div class="team-block mb-5 mb-lg-0">
-					<img src="images/team/2.jpg" alt="" class="img-fluid w-100">
+					<img src="{{ url('images/team/2.jpg') }}" alt="" class="img-fluid w-100">
 
 					<div class="content">
-						<h4 class="mt-4 mb-0"><a href="doctor-single.html">TRAORE Himan</a></h4>
+						<h4 class="mt-4 mb-0"><a href="{{ url('/doctorSingle') }}">TRAORE Himan</a></h4>
 						<p>Surgeon, Сardiologist</p>
 					</div>
 				</div>
@@ -35,20 +35,20 @@
 
 			<div class="col-lg-3 col-md-6 col-sm-6">
 				<div class="team-block mb-5 mb-lg-0">
-					<img src="images/team/3.jpg" alt="" class="img-fluid w-100">
+					<img src="{{ ('images/team/3.jpg') }}" alt="" class="img-fluid w-100">
 
 					<div class="content">
-						<h4 class="mt-4 mb-0"><a href="doctor-single.html">ATOU Michou</a></h4>
+						<h4 class="mt-4 mb-0"><a href="{{ url('/doctorSingle') }}">ATOU Michou</a></h4>
 						<p>Internist, General Practitioner</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-6">
 				<div class="team-block">
-					<img src="images/team/4.jpg" alt="" class="img-fluid w-100">
+					<img src="{{ url('images/team/4.jpg')" alt="" class="img-fluid w-100">
 
 					<div class="content">
-						<h4 class="mt-4 mb-0"><a href="doctor-single.html">Akpo Ariel</a></h4>
+						<h4 class="mt-4 mb-0"><a href="{{ url('/doctorSingle') }}">Akpo Ariel</a></h4>
 						<p>Orthopedic Surgeon</p>
 					</div>
 				</div>

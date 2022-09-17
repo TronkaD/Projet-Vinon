@@ -9,32 +9,32 @@
 				<div class="row">
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="award-img">
-							<img src="images/about/3.jpg" alt="" class="img-fluid">
+							<img src="{{ url('images/about/3.jpg') }}" alt="" class="img-fluid">
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="award-img">
-							<img src="images/about/4.png" alt="" class="img-fluid">
+							<img src="{{ url('images/about/4.png')}} " alt="" class="img-fluid">
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="award-img">
-							<img src="images/about/1.jpg" alt="" class="img-fluid">
+							<img src="{{ url('images/about/1.jpg') }}" alt="" class="img-fluid">
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="award-img">
-							<img src="images/about/2.jpg" alt="" class="img-fluid">
+							<img src="{{ url('images/about/2.jpg') }}" alt="" class="img-fluid">
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="award-img">
-							<img src="images/about/5.png" alt="" class="img-fluid">
+							<img src="{{ url('images/about/5.png') }}" alt="" class="img-fluid">
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="award-img">
-							<img src="images/about/6.png" alt="" class="img-fluid">
+							<img src="{{ url('images/about/6.png') }}" alt="" class="img-fluid">
 						</div>
 					</div>
 				</div>
