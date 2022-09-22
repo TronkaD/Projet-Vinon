@@ -87,6 +87,9 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 .space{
   margin-left: 3rem;
 }
+.margLog{
+  margin-left: 20rem;
+}
 .btn {
   display: inline-block;
   font-size: 14px;

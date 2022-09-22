@@ -41,11 +41,11 @@
 	      	<div class="position-relative doctor-inner-box">
 		        <div class="doctor-profile">
 	               <div class="doctor-img">
-	               		<img src="images/team/1.jpg" alt="doctor-image" class="img-fluid w-100">
+	               		<img src="{{ url('images/team/1.jpg') }}" alt="doctor-image" class="img-fluid w-100">
 	               </div>
 	            </div>
                 <div class="content mt-3">
-                	<h4 class="mb-0"><a href="doctor-single.html">DANCLOU Chantal</a></h4>
+                	<h4 class="mb-0"><a href="{{ url('doctorSingle.blade.php') }}">DANCLOU Chantal</a></h4>
                 	<p>Cardiology</p>
                 </div> 
 	      	</div>
@@ -55,11 +55,11 @@
         	<div class="position-relative doctor-inner-box">
 		        <div class="doctor-profile">
 		        	<div class="doctor-img">
-		               <img src="images/team/2.jpg" alt="doctor-image" class="img-fluid w-100">
+		               <img src="{{ url('images/team/2.jpg') }}" alt="doctor-image" class="img-fluid w-100">
 		            </div>
 	            </div>
                 <div class="content mt-3">
-                	<h4 class="mb-0"><a href="doctor-single.html">TRAORE Himan</a></h4>
+                	<h4 class="mb-0"><a href="{{ url('doctorSingle.blade.php') }}">TRAORE Himan</a></h4>
                 	<p>Radiology</p>
                 </div> 
 	      	</div>
@@ -69,11 +69,11 @@
         	<div class="position-relative doctor-inner-box">
 		        <div class="doctor-profile">
 		        	<div class="doctor-img">
-		               <img src="images/team/3.jpg" alt="doctor-image" class="img-fluid w-100">
+		               <img src="{{ url('images/team/3.jpg') }}" alt="doctor-image" class="img-fluid w-100">
 		            </div>
 	            </div>
                 <div class="content mt-3">
-                	<h4 class="mb-0"><a href="doctor-single.html">ATOU Michou</a></h4>
+                	<h4 class="mb-0"><a href="{{ url('doctorSingle.blade.php') }}">ATOU Michou</a></h4>
                 	<p>Dental</p>
                 </div> 
 	      	</div>
@@ -83,11 +83,11 @@
         	<div class="position-relative doctor-inner-box">
 		        <div class="doctor-profile">
 		        	<div class="doctor-img">
-		               <img src="images/team/4.jpg" alt="doctor-image" class="img-fluid w-100">
+		               <img src="{{ url('images/team/4.jpg') }}" alt="doctor-image" class="img-fluid w-100">
 		            </div>
 	            </div>
                 <div class="content mt-3">
-                	<h4 class="mb-0"><a href="doctor-single.html">Akpo Ariel</a></h4>
+                	<h4 class="mb-0"><a href="{{ url('doctorSingle.blade.php') }}">Akpo Ariel</a></h4>
                 	<p>Pediatry</p>
                 </div> 
 	      	</div>
@@ -97,11 +97,11 @@
         	<div class="position-relative doctor-inner-box">
 		        <div class="doctor-profile">
 		        	<div class="doctor-img">
-		               <img src="images/team/5.png" alt="doctor-image" class="img-fluid w-100">
+		               <img src="{{ url('images/team/5.png') }}" alt="doctor-image" class="img-fluid w-100">
 		            </div>
 	            </div>
                 <div class="content mt-3">
-                	<h4 class="mb-0"><a href="doctor-single.html">Atou Matine</a></h4>
+                	<h4 class="mb-0"><a href="{{ url('doctorSingle.blade.php') }}">Atou Matine</a></h4>
                 	<p>Neurology</p>
                 </div> 
 	      	</div>
@@ -111,11 +111,11 @@
        		 <div class="position-relative doctor-inner-box">
 		        <div class="doctor-profile">
 		        	<div class="doctor-img">
-		               <img src="images/team/6.jpg" alt="doctor-image" class="img-fluid w-100">
+		               <img src="{{ url('images/team/6.jpg') }}" alt="doctor-image" class="img-fluid w-100">
 		            </div>
 	            </div>
                 <div class="content mt-3">
-                	<h4 class="mb-0"><a href="doctor-single.html">Laroche David</a></h4>
+                	<h4 class="mb-0"><a href="{{ url('doctorSingle.blade.php') }}">Laroche David</a></h4>
                 	<p>Palmology</p>
                 </div> 
 	      	</div>
@@ -125,11 +125,11 @@
         	<div class="position-relative doctor-inner-box">
 		        <div class="doctor-profile">
 		        	<div class="doctor-img">
-		               <img src="images/team/7.png" alt="doctor-image" class="img-fluid w-100">
+		               <img src="{{ url('images/team/7.png') }}" alt="doctor-image" class="img-fluid w-100">
 		            </div>
 	            </div>
                 <div class="content mt-3">
-                	<h4 class="mb-0"><a href="doctor-single.html">Napo Samuel</a></h4>
+                	<h4 class="mb-0"><a href="{{ url('doctorSingle.blade.php') }}">Napo Samuel</a></h4>
                 	<p>Cardiology</p>
                 </div> 
 	        </div>
@@ -139,11 +139,11 @@
         	<div class="position-relative doctor-inner-box">
 		        <div class="doctor-profile">
 		        	<div class="doctor-img">
-		               <img src="images/team/8.jpg" alt="doctor-image" class="img-fluid w-100">
+		               <img src="{{ url('images/team/8.jpg') }}" alt="doctor-image" class="img-fluid w-100">
 		             </div>
 	             </div>
                 <div class="content mt-3">
-                	<h4 class="mb-0"><a href="doctor-single.html">Moctar Fridouse </a></h4>
+                	<h4 class="mb-0"><a href="{{ url('doctorSingle.blade.php') }}">Moctar Fridouse </a></h4>
                 	<p>Traumatology</p>
                 </div> 
 	      	</div>
@@ -153,11 +153,11 @@
         	<div class="position-relative doctor-inner-box">
 		        <div class="doctor-profile">
 		        	<div class="doctor-img">
-		               <img src="images/team/9.png" alt="doctor-image" class="img-fluid w-100">
+		               <img src="{{ url('images/team/9.png') }}" alt="doctor-image" class="img-fluid w-100">
 		            </div>
 	            </div>
                 <div class="content mt-3">
-                	<h4 class="mb-0"><a href="doctor-single.html">Amouzouvi Julienne</a></h4>
+                	<h4 class="mb-0"><a href="{{ url('doctorSingle.blade.php') }}">Amouzouvi Julienne</a></h4>
                 	<p>Cardiology</p>
                 </div> 
 	      	</div>
@@ -167,11 +167,11 @@
         	<div class="position-relative doctor-inner-box">
 		        <div class="doctor-profile">
 		        	<div class="doctor-img">
-		               <img src="images/team/10.png" alt="doctor-image" class="img-fluid w-100">
+		               <img src="{{ url('images/team/10.png') }}" alt="doctor-image" class="img-fluid w-100">
 		            </div>
 	            </div>
                 <div class="content mt-3">
-                	<h4 class="mb-0"><a href="doctor-single.html">Elenekou Eric</a></h4>
+                	<h4 class="mb-0"><a href="{{ url('doctorSingle.blade.php') }}">Elenekou Eric</a></h4>
                 	<p>hematology</p>
                 </div> 
 	      	</div>
@@ -181,11 +181,11 @@
         	<div class="position-relative doctor-inner-box">
 		        <div class="doctor-profile">
 		        	<div class="doctor-img">
-		               <img src="images/team/11.jpg" alt="doctor-image" class="img-fluid w-100">
+		               <img src="{{ url('images/team/11.jpg') }}" alt="doctor-image" class="img-fluid w-100">
 		             </div>
 	             </div>
                 <div class="content mt-3">
-                	<h4 class="mb-0"><a href="doctor-single.html">Bourahima Wassiou</a></h4>
+                	<h4 class="mb-0"><a href="{{ url('doctorSingle.blade.php') }}">Bourahima Wassiou</a></h4>
                 	<p>Dental</p>
                 </div> 
 	      	</div>

@@ -90,7 +90,7 @@
 					<li class="nav-item"><a class="nav-link" href="{{ url('/contact') }}">Contact</a></li>
 				</ul>
 			</div>
-			<button type="submit" class="btn btn-main-2 btn-round-full space">Connexion</button>
+			<button type="submit" class="btn btn-main-2 btn-round-full space" ><a href="{{ route('login')}}">Connexion</a></button>
 		</div>
 	</nav>
 </header>
