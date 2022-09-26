@@ -14,7 +14,7 @@
 			</div>
 			<div class="col-lg-4">
 				<div class="about-content pl-4 mt-4 mt-lg-0">
-					<h2 class="title-color">Soins personnels<br>& mode de vie sain</h2>
+					<h2 class="title-color">Nos articles<br>& Services proposés</h2>
 					<p class="mt-4 mb-5">
 						Nous fournissons le meilleur service médical tous au long de votre periode de grossesse du premier mois jusqu'à l'accouchement</p>
 

@@ -4,8 +4,8 @@
     <div class="row">
       <div class="col-md-12">
         <div class="block text-center">
-          <span class="text-white">Nos services</span>
-          <h1 class="text-capitalize mb-5 text-lg">Ce que nous faisons</h1>
+          <span class="text-white">Instruisez-Vous!</span>
+          <h1 class="text-capitalize mb-5 text-lg">Consultez Nos Articles Bi Hebdomadaire</h1>
 
           <!-- <ul class="list-inline breadcumb-nav">
             <li class="list-inline-item"><a href="index.html" class="text-white">Home</a></li>

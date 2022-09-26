@@ -77,17 +77,17 @@
 			<div class="collapse navbar-collapse" id="navbarmain">
 				<ul class="navbar-nav ml-auto">
 					<li class="nav-item active"><a class="nav-link" href="{{ url('/') }}">Accueil</a></li>
-					<li class="nav-item"><a class="nav-link" href="{{ url('/about') }}">Propos</a></li>
-					<li class="nav-item"><a class="nav-link" href="{{ url('/service') }}">Services</a></li>
+					<li class="nav-item"><a class="nav-link" href="{{ url('/about') }}">Services</a></li>
+					<li class="nav-item"><a class="nav-link" href="{{ url('/articles') }}">Articles</a></li>
 					<li class="nav-item dropdown">
 						<a class="nav-link dropdown-toggle" href="{{ url('/doctor') }}" id="dropdown03" data-toggle="dropdown"
-							aria-haspopup="true" aria-expanded="false">Doctors <i class="icofont-thin-down"></i></a>
+							aria-haspopup="true" aria-expanded="false">Médecins <i class="icofont-thin-down"></i></a>
 						<ul class="dropdown-menu" aria-labelledby="dropdown03">
-							<li><a class="dropdown-item" href="{{ url('/doctor') }}">Doctors</a></li>
-							<li><a class="dropdown-item" href="{{ url('/doctorSingle') }}">Doctor Single</a></li>
+							<li><a class="dropdown-item" href="{{ url('/doctor') }}">Médecins</a></li>
+							<li><a class="dropdown-item" href="{{ url('/doctorSingle') }}">médecins Privés</a></li>
 				      		</ul>
 					</li>
-					<li class="nav-item"><a class="nav-link" href="{{ url('/contact') }}">Contact</a></li>
+					<li class="nav-item"><a class="nav-link" href="{{ url('/contact') }}">Contacts</a></li>
 				</ul>
 			</div>
 			<button type="submit" class="btn btn-main-2 btn-round-full space">Connexion</button>

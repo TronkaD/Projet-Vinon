@@ -12,34 +12,34 @@
 			<div class="col-lg-6 col-md-10 ">
 				<div class="appoinment-wrap mt-5 mt-lg-0">
 					<h2 class="mb-2 title-color">Prenez rendez-vous</h2>
-					<p class="mb-4">Nous mettons à votre disposition nos meilleure gynécologue</p>
+					<p class="mb-4">Nous mettons à votre disposition nos meilleurs gynécologues</p>
 					     <form id="#" class="appoinment-form" method="post" action="#">
                     <div class="row">
                          <div class="col-lg-6">
                             <div class="form-group">
                                 <select class="form-control" id="exampleFormControlSelect1">
-                                  <option>Choose Department</option>
-                                  <option>Software Design</option>
-                                  <option>Development cycle</option>
-                                  <option>Software Development</option>
-                                  <option>Maintenance</option>
-                                  <option>Process Query</option>
-                                  <option>Cost and Duration</option>
-                                  <option>Modal Delivery</option>
+                                  <option>Selectionnez un Département</option>
+                                  <option>salle de Travail</option>
+                                  <option>Réanimation</option>
+                                  <option>CPN</option>
+                                  <option>Maternité</option>
+                                  <option>Service des prématurés</option>
+                                  <option>Suite des couches</option>
+                                  <option>Planning Familial</option>
                                 </select>
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="form-group">
                                 <select class="form-control" id="exampleFormControlSelect2">
-                                  <option>Select Doctors</option>
-                                  <option>Software Design</option>
-                                  <option>Development cycle</option>
-                                  <option>Software Development</option>
-                                  <option>Maintenance</option>
-                                  <option>Process Query</option>
-                                  <option>Cost and Duration</option>
-                                  <option>Modal Delivery</option>
+                                  <option>Selectionnez un médecin </option>
+                                  <option>Dr Danklou</option>
+                                  <option>Dr Kili</option>
+                                  <option>Dr Kombate</option>
+                                  <option>Dr beauty</option>
+                                  <option>Dr jean-philip</option>
+                                  <option>Dr Anani</option>
+                                  <option>Dr bruce</option>
                                 </select>
                             </div>
                         </div>

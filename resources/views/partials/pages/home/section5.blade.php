@@ -3,9 +3,9 @@
 		<div class="row justify-content-center">
 			<div class="col-lg-7">
 				<div class="section-title text-center">
-					<h2>Nous avons servi plus de 5000 patients</h2>
+					<h2>Plus de 4000 Carnets sont désormais disponible en ligne!</h2>
 					<div class="divider mx-auto my-4"></div>
-					<p>Nous avons fait nos preuves sur des millions des patients qui peuvent comfirmés .</p>
+					<p>Des Médecins et patients satisfaits témoignent de nous!.</p>
 				</div>
 			</div>
 		</div>
@@ -23,7 +23,7 @@
 						<h4>DANKLOU Grâce</h4>
 						<span>28 ans</span>
 						<p>
-							They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
+							Je suis très content de cette innovation qui me permet d'etre en contact avec mon Médecin Que Dieu vous Bénisse! 
 						</p>
 					</div>
 					
@@ -39,7 +39,9 @@
 						<h4>AMOUZOUVI Mariette</h4>
 						<span>25ans</span>
 						<p>
-							They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
+							J'ai eu a contacter ma clinique pour avoir une photocopie 
+							de mes dossiers medicaux, ils mon juste donné mon identifiant 
+							pour le consulter en ligne c'est top! 
 						</p>
 					</div>
 					
@@ -52,10 +54,10 @@
 					</div>
 
 					<div class="client-info">
-						<h4>AKAPO Nadège</h4>
+						<h4>AKAPO Cinthia</h4>
 						<span>30ans</span>
 						<p class="mt-4">
-							They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
+							They provide great service facilty online that will reduce mortality by nescience.
 						</p>
 					</div>
 					<i class="icofont-quote-right"></i>
@@ -67,10 +69,10 @@
 					</div>
 
 					<div class="client-info">
-						<h4>BOURAIMA Alima</h4>
+						<h4>BOURAIMA mimi</h4>
 						<span>36ans</span>
 						<p>
-							They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
+							Désormais je n'ai plus peur d'oublier un dossier, une analyse ou mon carnet de suivi à la maison. A la demande en un clic tout est là! Masha'Allah!
 						</p>
 					</div>
 					<i class="icofont-quote-right"></i>

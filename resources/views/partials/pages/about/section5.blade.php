@@ -45,7 +45,7 @@
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-6">
 				<div class="team-block">
-					<img src="{{ url('images/team/4.jpg')" alt="" class="img-fluid w-100">
+					<img src="{{ url('images/team/4.jpg') }}" alt="" class="img-fluid w-100">
 
 					<div class="content">
 						<h4 class="mt-4 mb-0"><a href="{{ url('/doctorSingle') }}">Akpo Ariel</a></h4>

@@ -3,9 +3,9 @@
 		<div class="row justify-content-center">
 			<div class="col-lg-7">
 				<div class="section-title text-center">
-					<h2>Nos partenaires qui nous support</h2>
+					<h2>Nos partenaires qui nous supportent</h2>
 					<div class="divider mx-auto my-4"></div>
-					<p>Lets know moreel necessitatibus dolor asperiores illum possimus sint voluptates incidunt molestias nostrum laudantium. Maiores porro cumque quaerat.</p>
+					<p>Vous voulez devenir un de nos partenaires? contactez nous! ils sont content d'être avec nous .</p>
 				</div>
 			</div>
 		</div>
